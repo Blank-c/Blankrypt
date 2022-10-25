@@ -7,7 +7,7 @@
 
 ## Download
 
-![Download Button](https://img.shields.io/badge/Download-now-green?style=for-the-badge&logo=appveyor)
+[![Download Button](https://img.shields.io/badge/Download-now-green?style=for-the-badge&logo=appveyor)](https://github.com/Blank-c/Blankrypt/releases)
 
 ## How to use?
 ```
