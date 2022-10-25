@@ -1,5 +1,5 @@
 <h1 align="center">
-   BlankKrypt
+   Blankrypt
 </h1>
 <h3 align="center">
    A crypter/dropper to bypass static (and dynamic) analysis.
