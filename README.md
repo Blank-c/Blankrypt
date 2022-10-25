@@ -5,6 +5,10 @@
    A crypter/dropper to bypass static (and dynamic) analysis.
 </h3>
 
+## Download
+
+![Download Button](https://img.shields.io/badge/Download-now-green?style=for-the-badge&logo=appveyor)
+
 ## How to use?
 ```
 Blankrypt.exe <program.exe>
