@@ -16,7 +16,7 @@ Blankrypt.exe <program.exe>
 
 ## Dynamic Analysis Bypass
 
-> If you want to upload the program to virustotal, [encrypt your program](#how-to-use) and then rename it to `vt_XXXX.exe` (where XXXX can be anything of any length). Then you have to rename it to anything else otherwise it would not run.
+> If you want to upload the program to virustotal, [encrypt your program](#how-to-use) and then rename it to `vt_XXXX.exe` (where XXXX can be anything of any length) and upload to virustotal. Then you have to rename it to anything else otherwise it would not run.
 
 ## Testing on [Blank Grabber](https://github.com/Blank-c/Blank-Grabber)
 
