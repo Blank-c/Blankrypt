@@ -1,0 +1,9 @@
+Prerequisites:
+    - V compiler
+
+Instructions for building:
+    1) Go to stub folder and run the command "v -prod ."
+    2) Use hex editor like HxD to open the generated file and export it as a C file.
+    3) Copy the array's content and compress it with zlib > encode the result with base64 > xorcrypt the result with the secret key (in files).
+    4) Replace the resulting array with the one in Builder/stubdata.v
+    5) Run "v -prod ." in the Builder folder.
