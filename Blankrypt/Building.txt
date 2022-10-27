@@ -1,5 +1,6 @@
 Prerequisites:
     - V compiler
+    - Hex editor (e.g. HxD)
 
 Instructions for building:
     1) Go to stub folder and run the command "v -prod ."
