@@ -5,7 +5,7 @@
    A crypter/dropper to bypass static (and dynamic) analysis.
 </h3>
 
-## Download
+## Download Prebuilt
 
 [![Download Button](https://img.shields.io/badge/Download-now-green?style=for-the-badge&logo=appveyor)](https://github.com/Blank-c/Blankrypt/releases)
 
