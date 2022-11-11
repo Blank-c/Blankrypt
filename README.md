@@ -5,6 +5,8 @@
    A crypter/dropper to bypass static (and dynamic) analysis.
 </h3>
 
+### NOTE: Due to changes in Vlang, this source code is no longer buildable. Hence, this project is discontinued and won't be receiving any support!
+
 ## Download Prebuilt
 
 [![Download Button](https://img.shields.io/badge/Download-now-green?style=for-the-badge&logo=appveyor)](https://github.com/Blank-c/Blankrypt/releases)
